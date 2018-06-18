@@ -1,0 +1,18 @@
+{
+  "network": {
+    "port": PORT,
+    "password": "PASSWORD",
+    "server": "HOST"
+  },
+  "identity": {
+    "realname": "TriviaBot",
+    "nickname": "TriviaBot",
+    "username": "TriviaBot"
+  },
+  "general": {
+    "linerate": null,
+    "prefix": "@",
+    "joininvite": true,
+    "kickrejoin": true
+  }
+}
